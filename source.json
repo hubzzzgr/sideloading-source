@@ -1,0 +1,31 @@
+{
+  "name": "hubzzzgr's Sideloading Source",
+  "identifier": "com.hubzzzgr.sideloading-source",
+  "subtitle": "Apps for Apple TV",
+  "description": "Sideloading apps maintained by hubzzzgr. TVContainer requires Apple TV running tvOS 17 or later.",
+  "website": "https://github.com/hubzzzgr/sideloading-source",
+  "iconURL": "https://raw.githubusercontent.com/hubzzzgr/TVContainer/main/TVContainer/Artwork/TVContainerIcon.jpg",
+  "apps": [
+    {
+      "name": "TVContainer",
+      "bundleIdentifier": "com.hubzzzgr.tvcontainer",
+      "developerName": "hubzzzgr",
+      "subtitle": "Your apps without limits on Apple TV",
+      "localizedDescription": "TVContainer brings LiveContainer's essential features to Apple TV with an interface designed for your Siri Remote. Requires Apple TV running tvOS 17 or later. The IPA must be signed with an Apple TV development provisioning profile. See the project README for setup and compatibility details: https://github.com/hubzzzgr/TVContainer",
+      "iconURL": "https://raw.githubusercontent.com/hubzzzgr/TVContainer/main/TVContainer/Artwork/TVContainerIcon.jpg",
+      "versions": [
+        {
+          "version": "1.0.6",
+          "buildVersion": "7",
+          "date": "2026-11-11T23:48:49Z",
+          "localizedDescription": "TVContainer for Apple TV / tvOS. Published in GitHub release 1.0; the IPA reports version 1.0.6 (build 7).",
+          "downloadURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
+          "size": 5323157,
+          "sha256": "3afb362576b9d213dea35f389e9de82c26ca0aa9aa1278fd0f4495601853dc1b",
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
