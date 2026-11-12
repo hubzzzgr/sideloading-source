@@ -1,9 +1,9 @@
 {
-  "name": "hubzzzgr's Sideloading Source",
+  "name": "hubzgr tvOS",
   "identifier": "com.hubzzzgr.sideloading-source",
   "subtitle": "Apps for Apple TV",
   "description": "Sideloading apps maintained by hubzzzgr. TVContainer requires Apple TV running tvOS 17 or later.",
-  "website": "https://github.com/hubzzzgr/sideloading-source",
+  "website": "https://github.com/hubzzzgr/",
   "iconURL": "https://raw.githubusercontent.com/hubzzzgr/TVContainer/main/TVContainer/Artwork/TVContainerIcon.jpg",
   "apps": [
     {
